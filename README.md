@@ -16,7 +16,7 @@ This is the current status of the projects in the Common Core process.
 --
 
 ## Piscine Discovery
-
+ - - -
 
 --
 ## Piscine October
