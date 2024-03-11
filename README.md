@@ -1,6 +1,6 @@
 <div align="center">
 
-## Common Core Process
+## Common Core in Progress at 42 Barcelona
 
 This is the current status of the projects in the Common Core process.
 
@@ -12,3 +12,11 @@ This is the current status of the projects in the Common Core process.
 | 1      | get_next_line | texto       | [![Build Status](https://img.shields.io/static/v1?label=Build%20Status&message=Not%20started&color=red)](https://github.com/yowcloud/get_next_line) |
 
 </div>
+
+--
+
+## Piscine Discovery
+
+
+--
+## Piscine October
