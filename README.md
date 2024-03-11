@@ -1,6 +1,7 @@
-<div align="center">
 # 42-Barcelona-Cursus
 ## Proceso del Common Core
+<div align="center">
+
 
 Este es el estado actual de los proyectos en el proceso del Common Core.
 
