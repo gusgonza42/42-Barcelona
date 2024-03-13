@@ -4,8 +4,6 @@
 
 This is the current status of the projects in the Common Core process.
 
-This is the current status of the projects in the Common Core process.
-
 | Circle | Language | Project       | Description | Status    |
 | ------ | -------- | ------------- | ----------- | --------- |
 | 0      | ![Libft top language](https://img.shields.io/github/languages/top/yowcloud/Libft?style=flat-square) | [Libft](https://github.com/yowcloud/Libft)         | A library containing various custom C functions, created as a foundational project for the 42 curriculum.       | [![gusgonza's 42 Libft Score](https://badge42.coday.fr/api/v2/cltqesspu596101p4us9juo9p/project/3469004)](https://github.com/Coday-meric/badge42) |
