@@ -20,3 +20,6 @@ This is the current status of the projects in the Common Core process.
 
 --
 ## Piscine October
+
+- - -
+[![gusgonza's 42 stats](https://badge42.coday.fr/api/v2/cltqesspu596101p4us9juo9p/stats?cursusId=21&coalitionId=204)](https://github.com/Coday-meric/badge42)
